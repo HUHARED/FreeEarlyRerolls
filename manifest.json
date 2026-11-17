@@ -1,0 +1,18 @@
+{
+  "name": "FreeEarlyRerolls",
+  "namespace": "HUHARED",
+  "version_number": "1.0.0",
+  "description": "Free shop and level-up rerolls on waves 1-3; first reroll in both interfaces is free after wave 3.",
+  "website_url": "https://github.com/HUHARED/FreeEarlyRerolls",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["HUHARED"],
+      "tags": ["Utilities", "Reworks", "New Mechanics", "Cheats"],
+      "compatible_mod_loader_version": ["6.3.0"],
+      "compatible_game_version": ["1.2.0.0"],
+      "config_schema": {}
+    }
+  }
+}
