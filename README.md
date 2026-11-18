@@ -18,7 +18,7 @@ Compatible with Brotato 1.2 / Primal Dread.
 
 ## Credits / 致谢
 
-Inspired by NME's Reroll RNG Balancing mod.
+Based on NME's Reroll RNG Balancing mod.
 
 Original mod:
 [https://steamcommunity.com/sharedfiles/filedetails/?id=3358242809](https://steamcommunity.com/sharedfiles/filedetails/?id=3358242809)
